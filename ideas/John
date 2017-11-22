@@ -1,0 +1,7 @@
+Skills decay with time when unused,
+   needs time since last used, min drop to, max, and current.
+Magical proficiency skill failure results in something really icky, eg
+   demons etc :>
+Pass to spells - sn, level, char, victim, % efficiency. Some spells could be
+   efficiency dependant.
+   (ritual skill %) * (spell % num).

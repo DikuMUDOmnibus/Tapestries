@@ -1,0 +1,55 @@
+#PLAYER
+Name         Lope~
+ShortDescr   ~
+LongDescr    ~
+Description  ~
+Prompt       <%hhp %mm %vmv> ~
+Sex          1
+Class        114
+Race         3
+Security     20
+Wizbit       1
+Played       22254
+Spool        5 836352234 0 0 0 0 
+Room         2
+HpManaMove   30000 30000 100 100 100 100
+Gold         2
+Exp          0
+Channels     3
+Penalty      0
+Act          4516
+AffectedBy   0
+Immortal     2097151
+Position     7
+Practice     21
+SavingThrow  0
+Alignment    0
+Hitroll      0
+Damroll      0
+Armour       100
+Wimpy        0
+Deaf         0
+Password     ~
+Bamfin       ~
+Bamfout      ~
+Title        ~
+AttrPerm     100 100 100 100 100
+AttrMod      0 0 0 0 0
+Condition    -5 43 43
+Pagelen      20
+Coloura     07 03 05 03 03
+Colourb     03 03 06 06 03
+Colourc     03 02 02 02 01
+Colourd     06 06 02 06 06
+Coloure     01 02 03 01 06
+Colourf     02
+Part   G 0 1
+Part   F 0 1
+Part   E 0 0
+Part   D 0 0
+Part   C 0 1
+Part   B 0 0
+Part   A 0 0
+End
+
+#END

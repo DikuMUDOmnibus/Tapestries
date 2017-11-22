@@ -1,0 +1,169 @@
+#AREADATA
+Name        [None ] Diku    Limbo~
+Builders    None~
+VNUMs       1 23
+Security    1
+Recall      3001
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#1
+dummy object~
+a dummy object~
+Dummy object is used for loading non-existant objects~
+~
+512 0 0
+0 0
+0 0 0 0 0
+#2
+coin gold~
+a gold coin~
+One miserable gold coin.~
+~
+20 0 1
+1 0
+1 0 0 0 0
+#3
+coins gold~
+%d gold coins~
+A pile of gold coins.~
+~
+16384 0 1
+1 0
+0 0 0 0 0
+#10
+corpse~
+corpse of %s~
+The corpse of %s is lying here.~
+~
+65536 0 1
+100 0
+50 0 0 0 0
+#11
+corpse~
+corpse of %s~
+The corpse of %s is lying here.~
+~
+131072 0 0
+100 0
+50 0 0 0 0
+#12
+head~
+head of %s~
+The severed head of %s is lying here.~
+~
+8192 0 1
+5 0
+1 0 0 0 0
+#13
+heart~
+heart of %s~
+The torn-out heart of %s is lying here.~
+~
+8192 0 1
+2 0
+1 0 0 0 0
+#14
+arm~
+arm of %s~
+The sliced-off arm of %s is lying here.~
+~
+8192 0 1
+5 0
+1 0 0 0 0
+#15
+leg~
+leg of %s~
+The sliced-off leg of %s is lying here.~
+~
+8192 0 1
+5 0
+1 0 0 0 0
+#16
+turd~
+steaming turd~
+The steaming turds of %s assail your nostrils.~
+~
+512 0 0
+1 0
+1 0 0 0 0
+#20
+mushroom~
+a Magic Mushroom~
+A delicious magic mushroom is here.
+~
+~
+8192 0 1
+1 10
+1 0 0 0 0
+#21
+ball light~
+a bright ball of light~
+A bright ball of light shimmers in the air.~
+~
+1 0 1
+1 0
+1 0 0 0 0
+#22
+spring~
+a magical spring~
+A magical spring flows from the ground here.~
+~
+262144 64 0
+5000 10
+100 0 0 0 0
+#23
+note~
+an important note~
+A note with the words, 'This used to be an object, but is no more...'.~
+~
+512 0 1
+1 0
+0 0 0 0 0
+#0
+
+
+
+#ROOMDATA
+#1
+The Void~
+You are floating in nothing.
+~
+BCE 0 1
+S
+#2
+Limbo~
+You are floating in a formless void, detached from all sensation of physical
+matter, surrounded by swirling glowing light, which fades into the relative
+darkness around you without any trace of edges or shadow.
+   There is a "No Tipping" notice pinned to the darkness.
+~
+BCE 0 1
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

@@ -1,0 +1,56 @@
+#AREADATA
+Name        New area~
+Builders    None~
+VNUMs       100 199
+Security    1
+Recall      3001
+End
+
+
+
+#MOBILES
+#100
+evil dwarf~
+the evil dwarf~
+An evil dwarf stands here snarling at you.
+~
+~
+'Dwarf' 1 0 0 S
+0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#100
+~
+~
+B 0 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

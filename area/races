@@ -1,0 +1,37 @@
+* #<race number>
+* <race name>~
+* <who name> <playable?>
+* <classes> <sub-classes>
+* <base stats>
+* <max stats>
+* <train stats>
+* <parts> <affects>
+
+#1
+Human~
+' Human ' 1
+ABCD 0
+20 20 20 20 20
+80 80 80 80 80
+60 60 60 60 60
+ABCDEFG 0
+
+#2
+Elf~
+'  Elf  ' 1
+ABCD 0
+16 32 24 28 10
+58 100 92 96 44
+44 90 80 84 26
+ABCDEFG 0
+
+#3
+Dwarf~
+' Dwarf ' 1
+ABCD 0
+32 15 32 16 28
+100 52 96 68 98
+90 40 84 52 88
+ABCDEFG 0
+
+#0

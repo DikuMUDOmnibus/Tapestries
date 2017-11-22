@@ -1,0 +1,31 @@
+#!/bin/sh
+
+#
+# Deletes ALL player files
+#
+rm a/* 
+rm b/* 
+rm c/* 
+rm d/* 
+rm e/* 
+rm f/* 
+rm g/* 
+rm h/* 
+rm i/* 
+rm j/* 
+rm k/* 
+rm l/* 
+rm m/* 
+rm n/* 
+rm o/* 
+rm p/* 
+rm q/* 
+rm r/* 
+rm s/* 
+rm t/* 
+rm u/* 
+rm v/* 
+rm w/* 
+rm x/* 
+rm y/* 
+rm z/* 

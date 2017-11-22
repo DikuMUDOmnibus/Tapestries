@@ -1,0 +1,25 @@
+Sun Jun 29 00:49:33 1997 :: Tapestries is accepting connections on port 9000.
+Sun Jun 29 00:49:40 1997 :: Connection From IP: 127.0.0.1
+Sun Jun 29 00:49:44 1997 :: (Resolving) 127.0.0.1 16777343 1089
+Writing to pipe---> Lope 16777343 1089 9000 <---
+Reading from pipe....
+From Pipe: Lope:root:localhost
+Sun Jun 29 00:49:45 1997 :: Resolved Lope as root@localhost
+Sun Jun 29 00:49:47 1997 :: Lope@localhost has connected.
+Sun Jun 29 00:50:12 1997 :: Connection From IP: 150.134.10.33
+Sun Jun 29 00:50:20 1997 :: (Resolving) 150.134.10.33 554337942 3171
+Writing to pipe---> Ziggy 554337942 3171 9000 <---
+Reading from pipe....
+Sun Jun 29 00:50:20 1997 :: Pipe not ready to read yet
+Reading from pipe....
+From Pipe: Ziggy:s0213352:UNIX1.CC.YSU.EDU
+Sun Jun 29 00:50:21 1997 :: Resolved Ziggy as s0213352@UNIX1.CC.YSU.EDU
+Sun Jun 29 00:50:39 1997 :: Ziggy@UNIX1.CC.YSU.EDU new player.
+Sun Jun 29 00:50:43 1997 :: [*****] BUG: Char_to_room: NULL.
+Sun Jun 29 00:50:43 1997 :: [*****] BUG: Char_to_room: Sent to Limbo.
+Sun Jun 29 00:50:48 1997 :: Log Lope: wizify ziggy
+Sun Jun 29 00:50:56 1997 :: Log Lope: endow ziggy all
+Sun Jun 29 00:51:01 1997 :: Log Lope: endow ziggy socket
+Sun Jun 29 00:51:47 1997 :: Log Lope: endow ziggy basic
+Sun Jun 29 01:10:24 1997 :: Lope has quit.
+Sun Jun 29 01:10:30 1997 :: Ziggy has quit.

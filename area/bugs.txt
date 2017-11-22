@@ -1,0 +1,349 @@
+[*****] BUG: Load_objects: # not found.
+[*****] BUG: Load_rooms: vnum 9850 has flag not 'DES'.
+[*****] BUG: Fix_exits: 9872:1 -> 9878:3 -> 9871.
+[*****] BUG: Fix_exits: 9878:3 -> 9871:1 -> 9853.
+[*****] BUG: Fix_exits: 9883:3 -> 9884:1 -> 9884.
+[*****] BUG: Equip_char: already equipped (-1).
+[*****] BUG: Equip_char: already equipped (-1).
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Fix_exits: 9872:1 -> 9878:3 -> 9871.
+[*****] BUG: Fix_exits: 9878:3 -> 9871:1 -> 9853.
+[*****] BUG: Fix_exits: 9883:3 -> 9884:1 -> 9884.
+[*****] BUG: Equip_char: already equipped (-1).
+[*****] BUG: Equip_char: already equipped (-1).
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Fix_exits: 9872:1 -> 9878:3 -> 9871.
+[*****] BUG: Fix_exits: 9878:3 -> 9871:1 -> 9853.
+[*****] BUG: Fix_exits: 9883:3 -> 9884:1 -> 9884.
+[*****] BUG: Equip_char: already equipped (-1).
+[*****] BUG: Equip_char: already equipped (-1).
+[*****] BUG: Fix_exits: 9872:1 -> 9878:3 -> 9871.
+[*****] BUG: Fix_exits: 9878:3 -> 9871:1 -> 9853.
+[*****] BUG: Fix_exits: 9883:3 -> 9884:1 -> 9884.
+[*****] BUG: Equip_char: already equipped (-1).
+[*****] BUG: Equip_char: already equipped (-1).
+[*****] BUG: Fix_exits: 9872:1 -> 9878:3 -> 9871.
+[*****] BUG: Fix_exits: 9878:3 -> 9871:1 -> 9853.
+[*****] BUG: Fix_exits: 9883:3 -> 9884:1 -> 9884.
+[*****] BUG: Equip_char: already equipped (-1).
+[*****] BUG: Equip_char: already equipped (-1).
+[*****] BUG: Fix_exits: 9872:1 -> 9878:3 -> 9871.
+[*****] BUG: Fix_exits: 9878:3 -> 9871:1 -> 9853.
+[*****] BUG: Fix_exits: 9883:3 -> 9884:1 -> 9884.
+[*****] BUG: Equip_char: already equipped (-1).
+[*****] BUG: Equip_char: already equipped (-1).
+[*****] BUG: Fread_string: MAX_STRING 1048576 exceeded.
+[*****] BUG: Get_room_index: bad vnum 11000.
+[*****] BUG: Get_room_index: bad vnum 11000.
+[*****] BUG: Get_room_index: bad vnum 11000.
+[*****] BUG: Get_room_index: bad vnum 11000.
+[*****] BUG: Fix_exits: 9872:1 -> 9878:3 -> 9871.
+[*****] BUG: Fix_exits: 9878:3 -> 9871:1 -> 9853.
+[*****] BUG: Fix_exits: 9883:3 -> 9884:1 -> 9884.
+[*****] BUG: Equip_char: already equipped (-1).
+[*****] BUG: Equip_char: already equipped (-1).
+[*****] BUG: Fix_exits: 9872:1 -> 9878:3 -> 9871.
+[*****] BUG: Fix_exits: 9878:3 -> 9871:1 -> 9853.
+[*****] BUG: Fix_exits: 9883:3 -> 9884:1 -> 9884.
+[*****] BUG: Equip_char: already equipped (-1).
+[*****] BUG: Equip_char: already equipped (-1).
+[*****] BUG: Fix_exits: 9872:1 -> 9878:3 -> 9871.
+[*****] BUG: Fix_exits: 9878:3 -> 9871:1 -> 9853.
+[*****] BUG: Fix_exits: 9883:3 -> 9884:1 -> 9884.
+[*****] BUG: Equip_char: already equipped (-1).
+[*****] BUG: Equip_char: already equipped (-1).
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: Substituted for Note.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: Substituted for Note.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: Substituted for Note.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: Substituted for Note.
+[*****] BUG: Char_to_room: NULL.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: Substituted for Note.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: Substituted for Note.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: Substituted for Note.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: Substituted for Note.
+[*****] BUG: Char_to_room: NULL.
+[*****] BUG: Char_to_room: Sent to Limbo.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: Substituted for Note.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: Substituted for Note.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: Substituted for Note.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: Substituted for Note.
+[*****] BUG: Char_to_room: NULL.
+[*****] BUG: Char_to_room: Sent to Limbo.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: Substituted for Note.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: Substituted for Note.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: Substituted for Note.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: Substituted for Note.
+[*****] BUG: Char_to_room: NULL.
+[*****] BUG: Char_to_room: Sent to Limbo.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: Substituted for Note.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: Substituted for Note.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: Substituted for Note.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: Substituted for Note.
+[*****] BUG: Char_to_room: NULL.
+[*****] BUG: Char_to_room: Sent to Limbo.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: Substituted for Note.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: Substituted for Note.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: Substituted for Note.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: Substituted for Note.
+[*****] BUG: Char_to_room: NULL.
+[*****] BUG: Char_to_room: Sent to Limbo.
+[*****] BUG: Load_objects: # not found.
+[*****] BUG: Get_room_index: bad vnum 2.
+[*****] BUG: Get_room_index: bad vnum 2.
+[*****] BUG: Fread_obj: no match.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: Substituted for Note.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: Substituted for Note.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: Substituted for Note.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: Substituted for Note.
+[*****] BUG: Char_to_room: NULL.
+[*****] BUG: Char_to_room: Sent to Limbo.
+[*****] BUG: Do_move: bad door 6.
+[*****] BUG: Do_move: bad door 6.
+[*****] BUG: Do_move: bad door 6.
+[*****] BUG: Do_move: bad door 7.
+[*****] BUG: Do_move: bad door 6.
+[*****] BUG: Do_move: bad door 6.
+[*****] BUG: Do_move: bad door 6.
+[*****] BUG: Do_move: bad door 6.
+[*****] BUG: Do_move: bad door 6.
+[*****] BUG: Do_move: bad door 6.
+[*****] BUG: Do_move: bad door 7.
+[*****] BUG: Open_area: fopen
+[*****] BUG: Open_area: fopen
+[*****] BUG: Open_area: fopen
+[*****] BUG: Open_area: fopen
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: Substituted for Note.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: Substituted for Note.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: Substituted for Note.
+[*****] BUG: Char_to_room: NULL.
+[*****] BUG: Char_to_room: Sent to Limbo.
+[*****] BUG: Load_char_obj: # not found.
+[*****] BUG: Load_char_obj: # not found.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: Substituted for Note.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: Substituted for Note.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: Substituted for Note.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: Substituted for Note.
+[*****] BUG: Char_to_room: NULL.
+[*****] BUG: Char_to_room: Sent to Limbo.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: Substituted for Note.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: Substituted for Note.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: Substituted for Note.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: Substituted for Note.
+[*****] BUG: Char_to_room: NULL.
+[*****] BUG: Char_to_room: Sent to Limbo.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: Substituted for Note.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: Substituted for Note.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: Substituted for Note.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: Substituted for Note.
+[*****] BUG: Char_to_room: NULL.
+[*****] BUG: Char_to_room: Sent to Limbo.
+[*****] BUG: Load_char_obj: # not found.
+[*****] BUG: Load_char_obj: # not found.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: Substituted for Note.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: Substituted for Note.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: Substituted for Note.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: Substituted for Note.
+[*****] BUG: Char_to_room: NULL.
+[*****] BUG: Char_to_room: Sent to Limbo.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: Substituted for Note.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: Substituted for Note.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: Substituted for Note.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: Substituted for Note.
+[*****] BUG: Char_to_room: NULL.
+[*****] BUG: Char_to_room: Sent to Limbo.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: Substituted for Note.
+[*****] BUG: Equip_char: already equipped (1).
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: Substituted for Note.
+[*****] BUG: Equip_char: already equipped (32).
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: Substituted for Note.
+[*****] BUG: Equip_char: already equipped (2048).
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: Substituted for Note.
+[*****] BUG: Equip_char: already equipped (65536).
+[*****] BUG: Char_to_room: NULL.
+[*****] BUG: Char_to_room: Sent to Limbo.
+[*****] BUG: Fread_char: no match.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Load_Classes: # not found!!!
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: Substituted for Note.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: Substituted for Note.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: Substituted for Note.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: Substituted for Note.
+[*****] BUG: Char_to_room: NULL.
+[*****] BUG: Char_to_room: Sent to Limbo.
+[*****] BUG: Load_char_obj: # not found.
+[*****] BUG: Load_char_obj: # not found.
+[*****] BUG: Char_to_room: NULL.
+[*****] BUG: Char_to_room: Sent to Limbo.
+[*****] BUG: Load_char_obj: # not found.
+[*****] BUG: Char_to_room: NULL.
+[*****] BUG: Char_to_room: Sent to Limbo.
+[*****] BUG: Char_to_room: NULL.
+[*****] BUG: Char_to_room: Sent to Limbo.
+[*****] BUG: Char_to_room: NULL.
+[*****] BUG: Char_to_room: Sent to Limbo.
+[*****] BUG: Fread_char: no match.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Char_to_room: NULL.
+[*****] BUG: Char_to_room: Sent to Limbo.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Boot_db: # not found.
+[*****] BUG: Boot_db: # not found.
+[*****] BUG: Char_to_room: NULL.
+[*****] BUG: Char_to_room: Sent to Limbo.
+[*****] BUG: Char_to_room: NULL.
+[*****] BUG: Char_to_room: Sent to Limbo.
+[*****] BUG: Attempt to recyle invalid memory of size 4.
+[*****] BUG: ant
+[*****] BUG: Attempt to recyle invalid memory of size 19.
+[*****] BUG: krynn.solace.mh.se
+[*****] BUG: Char_to_room: NULL.
+[*****] BUG: Char_to_room: Sent to Limbo.
+[*****] BUG: Char_to_room: NULL.
+[*****] BUG: Char_to_room: Sent to Limbo.
+[*****] BUG: Load_notes: bad key word.
+[*****] BUG: Load_char_obj: # not found.
+[*****] BUG: Char_to_room: NULL.
+[*****] BUG: Char_to_room: Sent to Limbo.
+[*****] BUG: Load_char_obj: # not found.
+[*****] BUG: Char_to_room: NULL.
+[*****] BUG: Char_to_room: Sent to Limbo.
+[*****] BUG: Load_char_obj: # not found.
+[*****] BUG: Char_to_room: NULL.
+[*****] BUG: Char_to_room: Sent to Limbo.
+[*****] BUG: Char_to_room: NULL.
+[*****] BUG: Char_to_room: Sent to Limbo.
+[*****] BUG: Char_to_room: NULL.
+[*****] BUG: Char_to_room: Sent to Limbo.
+[*****] BUG: Load_char_obj: # not found.
+[*****] BUG: Char_to_room: NULL.
+[*****] BUG: Char_to_room: Sent to Limbo.
+[*****] BUG: Char_to_room: NULL.
+[*****] BUG: Char_to_room: Sent to Limbo.
+[*****] BUG: Char_to_room: NULL.
+[*****] BUG: Char_to_room: Sent to Limbo.
+[*****] BUG: Char_to_room: NULL.
+[*****] BUG: Char_to_room: Sent to Limbo.
+[*****] BUG: Char_to_room: NULL.
+[*****] BUG: Char_to_room: Sent to Limbo.
+[*****] BUG: Char_to_room: NULL.
+[*****] BUG: Char_to_room: Sent to Limbo.
+[*****] BUG: Char_to_room: NULL.
+[*****] BUG: Char_to_room: Sent to Limbo.
+[*****] BUG: Char_to_room: NULL.
+[*****] BUG: Char_to_room: Sent to Limbo.
+[*****] BUG: Char_to_room: NULL.
+[*****] BUG: Char_to_room: Sent to Limbo.
+[*****] BUG: Char_to_room: NULL.
+[*****] BUG: Char_to_room: Sent to Limbo.
+[*****] BUG: Char_to_room: NULL.
+[*****] BUG: Char_to_room: Sent to Limbo.
+[*****] BUG: Char_to_room: NULL.
+[*****] BUG: Char_to_room: Sent to Limbo.
+[*****] BUG: Char_to_room: NULL.
+[*****] BUG: Char_to_room: Sent to Limbo.
+[*****] BUG: Char_to_room: NULL.
+[*****] BUG: Char_to_room: Sent to Limbo.
+[*****] BUG: Char_to_room: NULL.
+[*****] BUG: Char_to_room: Sent to Limbo.
+[*****] BUG: Char_to_room: NULL.
+[*****] BUG: Char_to_room: Sent to Limbo.
+[*****] BUG: Char_to_room: NULL.
+[*****] BUG: Char_to_room: Sent to Limbo.
+[*****] BUG: Char_to_room: NULL.
+[*****] BUG: Char_to_room: Sent to Limbo.
+[*****] BUG: Char_to_room: NULL.
+[*****] BUG: Char_to_room: Sent to Limbo.
+[*****] BUG: Char_to_room: NULL.
+[*****] BUG: Char_to_room: Sent to Limbo.
+[*****] BUG: Char_to_room: NULL.
+[*****] BUG: Char_to_room: Sent to Limbo.
+[*****] BUG: Char_to_room: NULL.
+[*****] BUG: Char_to_room: Sent to Limbo.
+[*****] BUG: Char_to_room: NULL.
+[*****] BUG: Char_to_room: Sent to Limbo.
+[*****] BUG: Char_to_room: NULL.
+[*****] BUG: Char_to_room: Sent to Limbo.
+[*****] BUG: Char_to_room: NULL.
+[*****] BUG: Char_to_room: Sent to Limbo.

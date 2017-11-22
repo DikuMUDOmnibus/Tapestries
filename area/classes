@@ -1,0 +1,55 @@
+* #<class number>
+* <class long name>~
+* <who name> <class type>
+* <prime stat here> <weapon vnum here>
+* <guild recall vnum here> <max skill %>
+* <defence> <attack>
+* <hp min gain> <hp max gain> <mana min gain> <mana max gain>
+* <flag of possible sub-classes>
+* <requirements follow the format: 'name' #%>
+* eg: say a barbarian needs an str of 46 and a sword skill of 85%,
+* he would have - 'str' 46
+*                 'sword' 85
+* and so on, after all requirements end with a $ sign.
+
+#1
+mage~
+' Mage  ' 0
+int 0 
+0 85
+20 10
+1 8 5 20
+0
+$
+
+#2
+cleric~
+'Cleric ' 0
+wis 0
+0 85
+50 40
+4 14 4 16
+0
+$
+
+#3
+thief~
+' Thief ' 0
+dex 0
+0 85
+40 50
+8 22 0 8
+0
+$
+
+#4
+warrior~
+'Warrior' 0
+str 0
+0 75
+75 75
+12 30 0 4
+0
+$
+
+#0

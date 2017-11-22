@@ -1,0 +1,25 @@
+Sender  Lope~
+Spool   2
+Anon    0
+Date    Wed Jul  3 02:01:21 1996~
+Stamp   836352081
+To      all~
+Subject test~
+Text
+test
+
+lope
+~
+
+Sender  Hodhr~
+Spool   0
+Anon    0
+Date    Wed Jul  3 02:03:54 1996~
+Stamp   836352234
+To      all~
+Subject Testing, is this thing on?~
+Text
+testing
+guess it's on.
+~
+
